@@ -1,4 +1,27 @@
-#carousel-caption {
-    margin: 0;
-    padding: 0;
+.successful-student {
+    width: 50%;
+    font-size: 1.2rem;
+}
+
+.faq-sec {
+    font-size: 17px;
+}
+
+.foot-sec {
+    font-size: 1.2rem;
+}
+
+.foot-sec p {
+    margin: 0 25rem;
+}
+
+.carousel-head {
+    font-size: 4.5vw;
+    color: #fff;
+    margin: 25px 45px;
+}
+
+.course-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
 }
