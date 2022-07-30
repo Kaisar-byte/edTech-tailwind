@@ -1,5 +1,4 @@
 .successful-student {
-    width: 50%;
     font-size: 1.2rem;
 }
 
@@ -24,4 +23,8 @@
 .course-card {
     border: 1px solid #ddd;
     border-radius: 5px;
+}
+
+.slider-caro {
+    background-color: rgba(black, black, black, 0.8);
 }
